@@ -102,10 +102,8 @@ typedef void(^UserCheckInfoCompletedBlock)();
 //返回带有加密字符的参数，加密方式先交换位置，再插入交换位置的所生成的字符串，最后转化成base64形式
 -(NSString *)retStringWithBase64:(CurrentUserInformationSecretCode)code WithString:(NSString *)codeString;
 
-//我就不告诉你我在干啥+123456
-//我就不告诉你我在干啥+0000]]]]]]]]]]]]]]]]]]]]]]
 
 //我就不告诉你我在干啥+0000--123456789+当前的master
-1234
+
 
 @end
